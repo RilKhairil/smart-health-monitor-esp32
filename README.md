@@ -89,7 +89,7 @@ The system is capable of classifying the user’s health condition automatically
 ---
 
 ## Full Report
-The complete project report is available in: Final_report_health_mnitoring
+[Click here to open the final report](Final_report_health_monitoring.pdf)
 
 ---
 
