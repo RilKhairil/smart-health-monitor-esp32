@@ -12,7 +12,17 @@ This project implements a smart health monitoring system that integrates multipl
 The system is capable of classifying the user’s health condition automatically based on predefined thresholds.
 
 ---
-
+## How to Run
+1. Install Arduino IDE.
+2. Install ESP32 board package.
+3. Install required libraries:
+   - MAX3010x
+   - Adafruit MLX90614
+   - Blynk
+4. Open `Code_Health_Monitoring.ino`.
+5. Set Wi-Fi and Blynk credentials.
+6. Upload to ESP32.
+---
 ## Features
 - Real-time body temperature monitoring (non-contact)
 - Heart rate (BPM) monitoring
